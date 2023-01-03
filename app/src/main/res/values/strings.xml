@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Miftahulhuda</string>
+    <string name="nama">Miftahul Huda</string>
+    <string name="nim">232010012</string>
+    <string name="fakultas">Pendidikan MIPA dan Teknologi</string>
+    <string-array name="prodi">
+        <item>pendidikan matematika</item>
+        <item>pendidikan fisika</item>
+        <item>pendidikan teknologi informasi</item>
+        <item>pendidikan biologi</item>
+    </string-array>
+
+    <string name="pertama">ini adalah desain pertama di android</string>
+    <string name="pesan">tuliskan pesan anda disisni</string>
+    <string name="bpertama">tekan</string>
+    <string name="bkedua">lepas</string>
+    <string name="cb1">pilihan 1</string>
+    <string name="cb2">pilihan 2</string>
+    <string name="jk1">laki-laki</string>
+    <string name="jk2">perempuan</string>
+
+    <string name="kepada">kepada</string>
+    <string name="subyek">subyek</string>
+    <string name="isi">isi pesan</string>
+    <string name="kirim">kirim</string>
+
+    <string name="copyright">Created by Miftahul Huda \n IKIP PGRI Pontianak</string>
+    <string name="username">Masukkan Nama Anda</string>
+</resources>
